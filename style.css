@@ -13,6 +13,7 @@ button{
     padding: 0.5rem;
     box-shadow: 1px 1px 5px;
     text-transform: uppercase;
+    margin-top: 2rem;
 }
 
 button:hover{
@@ -31,7 +32,7 @@ header{
 }
 
 header img{
-    width: 14vw;
+    width: 7vw;
 }
 
 .heart{
@@ -43,12 +44,12 @@ header img{
 }
 
 .heart-fly{
-    transform: translateX(2vw) translateY(-2vw);
+    transform: translateX(2vw) translateY(0vw);
     display: inline;
 }
 
 .pic{
-    margin: 3rem 0 3rem 0;
+    margin: 0.5rem 0 0.5rem 0;
     width: 100%;
     max-width: 30rem;
     height: auto;
@@ -57,7 +58,7 @@ header img{
 
 .title{
     font-family: 'Libre Baskerville';
-    font-size: 9vw;
+    font-size: 4vw;
     text-decoration: underline;
     color: rgb(143, 94, 16);
 }
